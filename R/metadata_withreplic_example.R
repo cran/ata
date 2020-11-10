@@ -13,6 +13,6 @@
 #'   \item{Time}{Expected item response time, in minutes.}
 #'   \item{Orig_Item}{Original item copy, corresponding "Item" column ID.}
 #' }
-#' @references Parhshall, C. G., et al. (2002). Automated test assembly for online administration. In C. G. Parhsall, J. A. Spray, J. C. Kalohn, & T. Davey, Practical considerations in computer based testing (pp.106-125). New York, NY: Springer-Verlag New York, Inc.
+#' @references Parshall, C. G., et al. (2002). Automated test assembly for online administration. In C. G. Parshall, J. A. Spray, J. C. Kalohn, & T. Davey, Practical considerations in computer based testing (pp.106-125). New York, NY: Springer-Verlag New York, Inc.
 #' 
 "metadata_withreplic_example"

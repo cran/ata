@@ -13,6 +13,6 @@
 #'   \item{Parent0}{Item set ID--initial, unique item set name.}
 #'   \item{Parent1}{Item set ID--modified, unique item set name.}
 #' }
-#' @references Parhshall, C. G., et al. (2002). Automated test assembly for online administration. In C. G. Parhsall, J. A. Spray, J. C. Kalohn, & T. Davey, Practical considerations in computer based testing (pp.106-125). New York, NY: Springer-Verlag New York, Inc.
+#' @references Parshall, C. G., et al. (2002). Automated test assembly for online administration. In C. G. Parshall, J. A. Spray, J. C. Kalohn, & T. Davey, Practical considerations in computer based testing (pp.106-125). New York, NY: Springer-Verlag New York, Inc.
 #' 
 "metadata_example"

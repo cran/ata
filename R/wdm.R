@@ -34,7 +34,7 @@
 #' \item{initial_setids}{Item sets from pool included in new test form. Only included if input \code{constobj} includes a \code{set_id}.}
 #' \item{final_ids}{Final item ids in the test form.}
 #' \item{final_setids}{Final set ids in the test form. Only included if input \code{constobj} includes a \code{set_id}.}
-#' @references Parhshall, C. G., et al. (2002). Automated test assembly for online administration. In C. G. Parhsall, J. A. Spray, J. C. Kalohn, & T. Davey, Practical considerations in computer based testing (pp.106-125). New York, NY: Springer-Verlag New York, Inc.
+#' @references Parshall, C. G., et al. (2002). Automated test assembly for online administration. In C. G. Parshall, J. A. Spray, J. C. Kalohn, & T. Davey, Practical considerations in computer based testing (pp.106-125). New York, NY: Springer-Verlag New York, Inc.
 #' @references Sanders, P. F., & Verschoor, A. J. (1998). Parallel test construction using classical item parameters. Applied Psychological Measurement, 22, 212-223. 
 #' @references Swanson, L., & Stocking, M. L. (1993). A Model and heuristic for solving Very large item selection problems. Applied Psychological Measurement, 17, 151-166. 
 #' @examples

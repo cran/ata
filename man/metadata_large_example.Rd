@@ -4,7 +4,8 @@
 \name{metadata_large_example}
 \alias{metadata_large_example}
 \title{ATA Package Large Example Item Metadata}
-\format{A data frame with 1096 rows and 44 variables:
+\format{
+A data frame with 1096 rows and 44 variables:
 \describe{
   \item{Item}{Unique item identifier, alpha-numeric index code.}
   \item{Content}{Content label, as factor identifying content "A" and "B".}
@@ -50,7 +51,8 @@
   \item{IIF_1}{Item Response Theory (IRT) item information function value at a theta = 1.0.}
   \item{IIF_2}{Item Response Theory (IRT) item information function value at a theta = 2.0.}
   \item{Parent0}{Passage based item set parent identification.}
-}}
+}
+}
 \usage{
 metadata_large_example
 }

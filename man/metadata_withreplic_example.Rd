@@ -4,7 +4,8 @@
 \name{metadata_withreplic_example}
 \alias{metadata_withreplic_example}
 \title{ATA Package Example Item Metadata with Item Replications}
-\format{A data frame with 14 rows and 10 variables:
+\format{
+A data frame with 14 rows and 10 variables:
 \describe{
   \item{Item}{Unique item identifier, integer.}
   \item{Item2}{Unique item identifier, character letter.}
@@ -16,7 +17,8 @@
   \item{iSx}{Item contribution to total composite standard deviation, double precision numeric.}
   \item{Time}{Expected item response time, in minutes.}
   \item{Orig_Item}{Original item copy, corresponding "Item" column ID.}
-}}
+}
+}
 \usage{
 metadata_withreplic_example
 }
@@ -24,6 +26,6 @@ metadata_withreplic_example
 Sample data based on data from Parshall et al. (2002) used for the demonstration of the Weighted (positive) Deviations Method (WDM).
 }
 \references{
-Parhshall, C. G., et al. (2002). Automated test assembly for online administration. In C. G. Parhsall, J. A. Spray, J. C. Kalohn, & T. Davey, Practical considerations in computer based testing (pp.106-125). New York, NY: Springer-Verlag New York, Inc.
+Parshall, C. G., et al. (2002). Automated test assembly for online administration. In C. G. Parshall, J. A. Spray, J. C. Kalohn, & T. Davey, Practical considerations in computer based testing (pp.106-125). New York, NY: Springer-Verlag New York, Inc.
 }
 \keyword{datasets}
